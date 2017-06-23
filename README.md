@@ -1,1 +1,1 @@
-# docker-base-jenkins-server
+# docker-jenkins-server
